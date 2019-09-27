@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Holla Toast</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">count up</string>
+    <string name="count_initial_value">02</string>
+    <string name="toast_message">Hello, Rizki Arum Setyowati!</string>
+    <string name="count_initial_value_down">Count Down</string>
+</resources>
